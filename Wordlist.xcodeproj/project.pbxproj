@@ -12,6 +12,18 @@
 		8B81CBAA1EAA07D0001BE015 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8B81CBA81EAA07D0001BE015 /* Main.storyboard */; };
 		8B81CBAC1EAA07D0001BE015 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B81CBAB1EAA07D0001BE015 /* Assets.xcassets */; };
 		8B81CBAF1EAA07D0001BE015 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8B81CBAD1EAA07D0001BE015 /* LaunchScreen.storyboard */; };
+		8B81CBBE1EAA07FF001BE015 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8B81CBB81EAA07FF001BE015 /* Default-568h@2x.png */; };
+		8B81CBBF1EAA07FF001BE015 /* Default-667h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8B81CBB91EAA07FF001BE015 /* Default-667h@2x.png */; };
+		8B81CBC01EAA07FF001BE015 /* Default-736h@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8B81CBBA1EAA07FF001BE015 /* Default-736h@3x.png */; };
+		8B81CBC11EAA07FF001BE015 /* fin.png in Resources */ = {isa = PBXBuildFile; fileRef = 8B81CBBB1EAA07FF001BE015 /* fin.png */; };
+		8B81CBC21EAA07FF001BE015 /* title_logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 8B81CBBC1EAA07FF001BE015 /* title_logo.png */; };
+		8B81CBC31EAA07FF001BE015 /* word_blank.png in Resources */ = {isa = PBXBuildFile; fileRef = 8B81CBBD1EAA07FF001BE015 /* word_blank.png */; };
+		8B81CBC51EAA10A5001BE015 /* QuestionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B81CBC41EAA10A5001BE015 /* QuestionViewController.swift */; };
+		8B81CBC71EAA122D001BE015 /* FinishViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B81CBC61EAA122D001BE015 /* FinishViewController.swift */; };
+		8B81CBC91EAA12BE001BE015 /* ListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B81CBC81EAA12BE001BE015 /* ListTableViewController.swift */; };
+		8B81CBCB1EAA1302001BE015 /* AddViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B81CBCA1EAA1302001BE015 /* AddViewController.swift */; };
+		8B81F4121EAAA9CF008C02E8 /* ListTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B81F4101EAAA9CF008C02E8 /* ListTableViewCell.swift */; };
+		8B81F4131EAAA9CF008C02E8 /* ListTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8B81F4111EAAA9CF008C02E8 /* ListTableViewCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +34,18 @@
 		8B81CBAB1EAA07D0001BE015 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8B81CBAE1EAA07D0001BE015 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8B81CBB01EAA07D0001BE015 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8B81CBB81EAA07FF001BE015 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		8B81CBB91EAA07FF001BE015 /* Default-667h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-667h@2x.png"; sourceTree = "<group>"; };
+		8B81CBBA1EAA07FF001BE015 /* Default-736h@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-736h@3x.png"; sourceTree = "<group>"; };
+		8B81CBBB1EAA07FF001BE015 /* fin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fin.png; sourceTree = "<group>"; };
+		8B81CBBC1EAA07FF001BE015 /* title_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = title_logo.png; sourceTree = "<group>"; };
+		8B81CBBD1EAA07FF001BE015 /* word_blank.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = word_blank.png; sourceTree = "<group>"; };
+		8B81CBC41EAA10A5001BE015 /* QuestionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = QuestionViewController.swift; path = Wordlist/QuestionViewController.swift; sourceTree = SOURCE_ROOT; };
+		8B81CBC61EAA122D001BE015 /* FinishViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = FinishViewController.swift; path = "WordList素材/FinishViewController.swift"; sourceTree = "<group>"; };
+		8B81CBC81EAA12BE001BE015 /* ListTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ListTableViewController.swift; path = "WordList素材/ListTableViewController.swift"; sourceTree = "<group>"; };
+		8B81CBCA1EAA1302001BE015 /* AddViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AddViewController.swift; path = "WordList素材/AddViewController.swift"; sourceTree = "<group>"; };
+		8B81F4101EAAA9CF008C02E8 /* ListTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ListTableViewCell.swift; sourceTree = "<group>"; };
+		8B81F4111EAAA9CF008C02E8 /* ListTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ListTableViewCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,14 +78,42 @@
 		8B81CBA31EAA07D0001BE015 /* Wordlist */ = {
 			isa = PBXGroup;
 			children = (
+				8B81CBB61EAA07FF001BE015 /* WordList素材 */,
 				8B81CBA41EAA07D0001BE015 /* AppDelegate.swift */,
 				8B81CBA61EAA07D0001BE015 /* ViewController.swift */,
+				8B81CBC41EAA10A5001BE015 /* QuestionViewController.swift */,
+				8B81CBC61EAA122D001BE015 /* FinishViewController.swift */,
+				8B81CBC81EAA12BE001BE015 /* ListTableViewController.swift */,
+				8B81CBCA1EAA1302001BE015 /* AddViewController.swift */,
 				8B81CBA81EAA07D0001BE015 /* Main.storyboard */,
 				8B81CBAB1EAA07D0001BE015 /* Assets.xcassets */,
 				8B81CBAD1EAA07D0001BE015 /* LaunchScreen.storyboard */,
 				8B81CBB01EAA07D0001BE015 /* Info.plist */,
+				8B81F4101EAAA9CF008C02E8 /* ListTableViewCell.swift */,
+				8B81F4111EAAA9CF008C02E8 /* ListTableViewCell.xib */,
 			);
 			path = Wordlist;
+			sourceTree = "<group>";
+		};
+		8B81CBB61EAA07FF001BE015 /* WordList素材 */ = {
+			isa = PBXGroup;
+			children = (
+				8B81CBB71EAA07FF001BE015 /* Defaults */,
+				8B81CBBB1EAA07FF001BE015 /* fin.png */,
+				8B81CBBC1EAA07FF001BE015 /* title_logo.png */,
+				8B81CBBD1EAA07FF001BE015 /* word_blank.png */,
+			);
+			path = "WordList素材";
+			sourceTree = "<group>";
+		};
+		8B81CBB71EAA07FF001BE015 /* Defaults */ = {
+			isa = PBXGroup;
+			children = (
+				8B81CBB81EAA07FF001BE015 /* Default-568h@2x.png */,
+				8B81CBB91EAA07FF001BE015 /* Default-667h@2x.png */,
+				8B81CBBA1EAA07FF001BE015 /* Default-736h@3x.png */,
+			);
+			path = Defaults;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,8 +177,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				8B81CBAF1EAA07D0001BE015 /* LaunchScreen.storyboard in Resources */,
+				8B81CBC11EAA07FF001BE015 /* fin.png in Resources */,
+				8B81CBBE1EAA07FF001BE015 /* Default-568h@2x.png in Resources */,
+				8B81CBC21EAA07FF001BE015 /* title_logo.png in Resources */,
 				8B81CBAC1EAA07D0001BE015 /* Assets.xcassets in Resources */,
+				8B81CBC31EAA07FF001BE015 /* word_blank.png in Resources */,
 				8B81CBAA1EAA07D0001BE015 /* Main.storyboard in Resources */,
+				8B81CBBF1EAA07FF001BE015 /* Default-667h@2x.png in Resources */,
+				8B81CBC01EAA07FF001BE015 /* Default-736h@3x.png in Resources */,
+				8B81F4131EAAA9CF008C02E8 /* ListTableViewCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +196,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8B81F4121EAAA9CF008C02E8 /* ListTableViewCell.swift in Sources */,
 				8B81CBA71EAA07D0001BE015 /* ViewController.swift in Sources */,
+				8B81CBC71EAA122D001BE015 /* FinishViewController.swift in Sources */,
+				8B81CBCB1EAA1302001BE015 /* AddViewController.swift in Sources */,
 				8B81CBA51EAA07D0001BE015 /* AppDelegate.swift in Sources */,
+				8B81CBC51EAA10A5001BE015 /* QuestionViewController.swift in Sources */,
+				8B81CBC91EAA12BE001BE015 /* ListTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -302,6 +366,7 @@
 				8B81CBB51EAA07D0001BE015 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
